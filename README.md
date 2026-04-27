@@ -28,7 +28,6 @@
 | <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="20" height="20"/> **C++** | Основной язык для производительных скриптов и утилит |
 | <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="20" height="20"/> **Python** | Для быстрых прототипов и автоматизации |
 
-### Или просто значками:
 
 `⚙️ C++`    `🐍 Python`    `🐧 Linux`    `🔐 Security`    `🖥️ SysAdmin`    `🏠 Homelab`
 
